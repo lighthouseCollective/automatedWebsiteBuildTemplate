@@ -38,6 +38,8 @@ After executing the aforementioned sequence of commands, the website will be bui
 
 ### Updates
 
-*KEEP A QUICK RECORD OF LAST THREE MEANINGFUL PATCHES*
+`v0.0.2` -- Added basic HTML5/CSS3 infrastructure files and automated Makefile system 
+
+`v0.0.1` -- Initial Commit; Only provided README
 
 
