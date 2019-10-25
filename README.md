@@ -38,8 +38,15 @@ After executing the aforementioned sequence of commands, the website will be bui
 
 ### Updates
 
-`v0.0.2` -- Added basic HTML5/CSS3 infrastructure files and automated Makefile system 
 
-`v0.0.1` -- Initial Commit; Only provided README
+##### v0.0.2
+ Added basic HTML5/CSS3 infrastructure files and automated Makefile system.
+
+ Website is now buildable; when built, the website is put into `_build` directory.
+
+##### v0.0.1
+**MILESTONE: *Initial Commit***
+
+Only provided README.
 
 
