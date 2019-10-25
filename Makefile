@@ -13,9 +13,9 @@
 build: index css
 
 
-BEGIN_HTML = cat src/std/stdh.html > 
+BEGIN_HTML = cat src/std/stdH.html > 
 BEGIN_BODY = printf "  </head>\n  <body>\n" >>
-STD_BODYb  = for file in ls src/std/*b.html ; do cat $$file >>
+STD_BODYb  = for file in src/std/*B.html ; do cat $$file >>
 STD_BODYe  = ; done 
  
 END_HTML   = printf "\n  </body>\n</html>\n" >>
@@ -25,7 +25,7 @@ index:
 	mkdir -p _build
 	${BEGIN_HTML} _build/index.html
 	${BEGIN_BODY} _build/index.html
-	cat src/indexb.html >> _build/index.html
+	cat src/indexB.html >> _build/index.html
 	${STD_BODYb} _build/index.html ${STD_BODYe}
 	${END_HTML} _build/index.html
 

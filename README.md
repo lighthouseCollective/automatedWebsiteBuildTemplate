@@ -1,5 +1,5 @@
 #  Neffli Website
-**Version: 0.0.2**
+**Version: 0.0.3**
 
 *BRIEF DESCRIPTION OF COMPANY HERE*
 
@@ -39,6 +39,9 @@ where `.` is the directory the user issued the `make build` command from.
 
 ### Updates
 
+#### v0.0.3
+* Added footer to standard imports
+* Changed link text to white for ease-of-sight
 
 #### v0.0.2
 * Added basic HTML5/CSS3 infrastructure files and automated Makefile system.
