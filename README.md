@@ -22,7 +22,8 @@ The Neffli website is built using an automated Makefile script.  On Linux/UNIX, 
 [user@computer neffliWebsite]$ make build
 ```
 
-After executing the aforementioned sequence of commands, the website will be built and deposited into `./_build`, where `.` is the directory the user issued the `make build` command from.
+After executing the aforementioned sequence of commands, the website will be built and deposited into `./_build`
+where `.` is the directory the user issued the `make build` command from.
 
 ### Features
 
@@ -40,13 +41,12 @@ After executing the aforementioned sequence of commands, the website will be bui
 
 
 #### v0.0.2
- Added basic HTML5/CSS3 infrastructure files and automated Makefile system.
-
- Website is now buildable; when built, the website is put into `_build` directory.
+* Added basic HTML5/CSS3 infrastructure files and automated Makefile system.
+* Website is now buildable; when built, the website is put into `_build` directory.
 
 #### v0.0.1
 **MILESTONE: *Initial Commit***
 
-Only provided README.
+* Only provided README.
 
 
