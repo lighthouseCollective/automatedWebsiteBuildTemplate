@@ -1,4 +1,4 @@
-#  Neffli Website
+#  Automated Website Template
 **Version: 0.0.3**
 
 *BRIEF DESCRIPTION OF COMPANY HERE*
