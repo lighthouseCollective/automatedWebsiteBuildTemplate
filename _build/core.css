@@ -1,0 +1,26 @@
+/*
+  core.css
+  Lighthouse Collective
+  Authored on   October 25, 2019
+  Last Modified October 25, 2019
+*/
+
+/*
+  Contains "Core" Stylistic Properties for Neffli Website
+
+  Core properties are defined as the stylistic properties that affect EVERY page within the Neffli Website.
+*/
+
+html, body
+{
+  width:  100%;
+  height: 100%;
+}
+
+
+h1
+{
+  font-size: 36px;
+  color: darkblue;
+}
+
